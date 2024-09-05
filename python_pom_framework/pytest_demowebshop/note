@@ -1,0 +1,8 @@
+so lib is basically used to upload the actions which the actions we performed in the selenium previously like send keys,
+click,etc.. we pre defined those things
+
+pom
+
+f = formated string
+parametrize  =buildin decorator two arguments variable in the form of string and a collections
+skip = @pytest.mark.skip
